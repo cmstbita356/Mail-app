@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\CheckMailUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\CheckDeletedUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\CheckSendedUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SendMailUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
